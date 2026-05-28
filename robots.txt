@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://gelateria-salvija.pages.dev/sitemap.xml

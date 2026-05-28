@@ -1,17 +1,10 @@
 {
   "name": "Gelateria Salvija",
   "short_name": "Salvija",
-  "description": "Glacier Artisanal Fait avec Amour — Riviera Guadeloupéenne",
+  "description": "Glacier artisanal sur la Riviera Guadeloupéenne",
   "start_url": "/",
   "display": "browser",
   "background_color": "#FFFFFF",
-  "theme_color": "#C2410C",
-  "lang": "fr",
-  "icons": [
-    {
-      "src": "/assets/logo.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    }
-  ]
+  "theme_color": "#E8949E",
+  "icons": []
 }
